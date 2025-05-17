@@ -58,7 +58,7 @@
 * 🧭 Supports asymmetric distances
 
 ![GA1 Output ](img/ga2_output.png)
-![Exp Output ](img/exp_output.png)
+![Exp Output ](img/exp_output_1.png)
 
 #### 🧪 Experimental GA (`ga.py`)
 
