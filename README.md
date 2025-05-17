@@ -37,6 +37,8 @@
 * 🎯 Finds closest paths to optimal routes
 * 📈 Visualizes pheromone intensity and convergence
 
+![ACO Output](img/aco_gpt_output.png)
+![ACO Output 1](img/aco_gpt_output_1.png)
 ---
 
 ### 🧬 Genetic Algorithm Variants
@@ -47,17 +49,23 @@
 * 🔗 Ordered crossover
 * ♻️ Basic mutation operator
 
+![GA Output ](img/ga1_output.png)
+
 #### 🚀 Advanced GA + Two-Opt (`ga2.py`, `exp.py`)
 
 * 🔁 Two-Opt local optimization
 * ⚡ Early stopping via improvement threshold
 * 🧭 Supports asymmetric distances
 
+![GA1 Output ](img/ga2_output.png)
+![Exp Output ](img/exp_output.png)
+
 #### 🧪 Experimental GA (`ga.py`)
 
 * 🎯 Handles custom waypoints
 * ↔️ Manages bidirectional edge weights
 
+![GA Output ](img/ga_output.png)
 ---
 
 ### 🔄 Differential Evolution (`de_gpt.py`)
@@ -66,6 +74,8 @@
 * 👥 Efficient population control
 * 📉 Real-time best route visualization
 
+![DE Output ](img/de_gpt_output_1.png)
+![DE Output ](img/de_gpt_output_2.png)
 ---
 
 ## 🛠️ Installation
@@ -160,5 +170,3 @@ We welcome all contributions! 🚀
 📫 For feedback or questions, feel free to open an issue or connect!
 
 ---
-
-Let me know if you’d like a `README.md` file or GitHub-ready version of this.
